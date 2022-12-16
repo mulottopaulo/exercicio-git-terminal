@@ -1,2 +1,3 @@
 class Sistema:
-    pass
+    def func_1():
+        pass
